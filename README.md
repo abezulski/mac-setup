@@ -1,2 +1,13 @@
 # mac-setup
-Mac setup scripts
+
+## Software
+- iTerm
+- Git
+- ZSH
+- oh-my-zsh
+- nvm for node
+- .Net core
+- VS code
+- Docker
+- MongoDB
+- Vim
