@@ -37,4 +37,4 @@ If key(s) not present, add the key to the agent:
 ````
 ssh-add --appe-use-keychain ~/.ssh/keyname
 ````
-https://medium.nextlevelswift.com/creating-two-ssh-keys-on-mac-for-two-different-github-accounts-b2456734e8f1
+https://vanthanhtran245.github.io/use-multiple-ssh-key-for-different-git-accounts/
